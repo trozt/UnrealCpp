@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Unreal Engine Developer Course - Section 3 - Building Escape
 
 This is the [Unreal Engine Developer]( http://gdev.tv/urcgithub) course – it started as a runaway success on Kickstarter and has gone on to become one of the bestselling Unreal courses on the internet! Continually updated in response to student suggestions, you will benefit from the fact we have already taught over 360,336 students game development, many shipping commercial games as a result.
@@ -381,3 +382,6 @@ The Concept, Rules and Requirements of our simple game.
 + Please carry-on a little on your own and share
 + Attached are useful resources
 + Start the next section as soon as you’re finished.
+=======
+# UnrealCpp
+>>>>>>> origin/master
