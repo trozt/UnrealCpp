@@ -1,5 +1,5 @@
 // Copyright Ben Tristem 2016.
-
+// Editado por comet en 6 de julio de 2018
 #include "BuildingEscape.h"
 #include "OpenDoor.h"
 
